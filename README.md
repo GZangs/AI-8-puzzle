@@ -11,6 +11,9 @@ Suponha que você tenha uma função objetiva que precise ser otimizada (maximiz
 
 
 ### b. A* Search (é condição para questão 2 entender muito bem)
+R: Em ciência da computação, o A* (pronuncia-se A star) é um algoritmo de computador que é amplamente utilizado para "pathfinding", ou seja, o processo de encontrar o melhor caminho entre o ponto A e o ponto B, chamados de nós. Possui boa performance e precisão.
+
+Funcionamento do algoritmo: O primeiro passo em pathfinding é dividir a área de procura em uma grade quadrada. Este método particular reduz nossa área de procura a uma ordem simples bi-dimensional. Cada ítem na ordem representa um dos quadrados na grade e seu estado é registrado como passável ou não-passável. O caminho é achado encontrando quais quadrados nós deveríamos tomar para ir de A à B. Uma vez que o caminho é achado, nossa entidade move do centro de um quadrado ao centro do próximo e assim sucessivamente até que o objetivo é alcançado.
 
 ### c. Graph Search
 
