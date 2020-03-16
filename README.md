@@ -12,6 +12,8 @@ Tempo restante: 21 segundos
 ### c. Graph Search
 
 
+
+
 ## 2. Solucionar na linguagem de sua preferência o problema 8 puzzle
 
 ### a. O programa deve inicializar o estado inicial do jogo (matriz 3 x 3) - pode ser um arquivo, aleatoriamente ou diretamente no código
@@ -21,6 +23,8 @@ Tempo restante: 21 segundos
 ### c. A interface pode ser CHUI (caracter), GUI (Graphical) ou Web
 
 ### d. Testes devem ser automatizados (não é obrigatório, mas é um "plus")
+
+
 
 ### Dicas: 
 
