@@ -16,8 +16,9 @@ R: Em ciência da computação, o A* (pronuncia-se A star) é um algoritmo de co
 Funcionamento do algoritmo: O primeiro passo em pathfinding é dividir a área de procura em uma grade quadrada. Este método particular reduz nossa área de procura a uma ordem simples bi-dimensional. Cada ítem na ordem representa um dos quadrados na grade e seu estado é registrado como passável ou não-passável. O caminho é achado encontrando quais quadrados nós deveríamos tomar para ir de A à B. Uma vez que o caminho é achado, nossa entidade move do centro de um quadrado ao centro do próximo e assim sucessivamente até que o objetivo é alcançado.
 
 ### c. Graph Search
+R: Graph Search no Facebook, a função permite que o usuário encontre o que está procurando através de seus amigos, dentro do próprio Facebook. Ou seja, a busca social mostra como resultado o que foi curtido e compartilhado pelos usuários da rede social, incluindo jogos, músicas, lugares, fotos, vídeos e interesses (curtidas, amigos em comum e outras informações).
 
-
+Para isso, o serviço cruza informações e conta com mais de 40 filtros para ajudar o usuário a encontrar, entre os dados fornecidos por amigos, amigos de amigos, ou públicos, resultados bem específicos.
 
 
 ## 2. Solucionar na linguagem de sua preferência o problema 8 puzzle
