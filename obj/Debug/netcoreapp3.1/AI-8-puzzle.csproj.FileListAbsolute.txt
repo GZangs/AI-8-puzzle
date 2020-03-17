@@ -1,0 +1,13 @@
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\bin\Debug\netcoreapp3.1\AI-8-puzzle.exe
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\bin\Debug\netcoreapp3.1\AI-8-puzzle.deps.json
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\bin\Debug\netcoreapp3.1\AI-8-puzzle.runtimeconfig.json
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\bin\Debug\netcoreapp3.1\AI-8-puzzle.runtimeconfig.dev.json
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\bin\Debug\netcoreapp3.1\AI-8-puzzle.dll
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\bin\Debug\netcoreapp3.1\AI-8-puzzle.pdb
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.csprojAssemblyReference.cache
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.AssemblyInfoInputs.cache
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.AssemblyInfo.cs
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.dll
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.pdb
+C:\Users\Gabriel Zanghelini\Documents\GitHub\AI-8-puzzle\obj\Debug\netcoreapp3.1\AI-8-puzzle.genruntimeconfig.cache
