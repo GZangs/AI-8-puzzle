@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -123,12 +123,12 @@ public class Board
 
     public bool equals(Object y)
     {
-        
+
         if (y == this) return true;
         if (y == null || !(y.GetType() == typeof(Board)) || ((Board)y).blocks.Length != blocks.Length) return false;
         for (int row = 0; row < blocks.Length; row++)
             for (int col = 0; col < blocks.Length; col++)
-                if (((Board)y).blocks[row,col] != Block(row, col)) return false;
+                if (((Board)y).blocks[row, col] != Block(row, col)) return false;
 
         return true;
     }
@@ -140,7 +140,7 @@ public class Board
         int[] location = SpaceLocation();
         int spaceRow = location[0];
         int spaceCol = location[1];
-        
+
         //TODO: Talvez ta errado
         if (spaceRow > 0) neighbors.AddLast(new Board(Swap(spaceRow, spaceCol, spaceRow - 1, spaceCol)));
         if (spaceRow < Dimension() - 1) neighbors.AddLast(new Board(Swap(spaceRow, spaceCol, spaceRow + 1, spaceCol)));
